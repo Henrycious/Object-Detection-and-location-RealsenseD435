@@ -13,7 +13,6 @@ When you install the essential job ,just run the main.py,the model will start to
 cd Python   
 python3 main.py
 ```
-<<<<<<< HEAD
 
-=======
->>>>>>> 42247d9f1c90d558b18525fc7c04f03f65814331
+
+
